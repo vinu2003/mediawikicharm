@@ -1,1 +1,1 @@
-# mediawikicharm
+# mediawikicharm - juju deploy mediawiki
